@@ -1,2 +1,2 @@
-# enlish
-enlish note
+# English
+English study note
