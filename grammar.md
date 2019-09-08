@@ -215,6 +215,17 @@
   - 构成：had + 过去分词(done)
     - I returned the book that I had borrowed.
 
+- 英语的基本时态12种
+
+  |    \     |                  过去                   |                     现在                     |                     将来                      |
+  | :------: | :-------------------------------------: | :------------------------------------------: | :-------------------------------------------: |
+  |   一般   |   一般过去时<br/>（was / were/ V-ed）   |       一般现在时<br/>（be +   V-ing）        |         一般将来时<br/>（will be /V）         |
+  |   进行   | 过去进行时<br/>（was / were/ +  V-ing） |    现在进行时<br/>（am/ is /are +V-ing）     |      将来进行时<br/>（will be + V-ing）       |
+  |   完成   |      过去完成时<br/>（had + p.p）       |       现在完成时<br/>（have/has +p.p）       |       将来完成时<br/>（will have +p.p）       |
+  | 完成进行 | 过去完成进行时<br/>（had been +V-ing）  | 现在完成进行时<br/>（have /has been +V-ing） | 将来完成进行时<br/>（will have been + V-ing） |
+
+  
+
 - 被动语态
 
   - 构成：be + done
