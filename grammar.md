@@ -4,7 +4,7 @@
 
 ## 句型
 
-![sentence pattern.png](sentence pattern.png)
+![sentence-pattern.png](sentence-pattern.png)
 
 - 简单句
   - 定义：由一个主语和一个谓语构成的句子（只有一套主谓关系）、
