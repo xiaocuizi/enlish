@@ -1,6 +1,6 @@
 ## 词性
 
-![word-type.png](word-type.png)
+![word-type-3.png](word-type-3.png)
 
 ## 句型
 
