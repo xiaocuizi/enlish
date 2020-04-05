@@ -1,0 +1,155 @@
+#### 英语单词
+
+- E (向外，通道)
+  - en 表示向外用力，使动用法
+  - eye 两个口
+  - ear 一个口
+  - eat 一个口
+  - en 从开口进入
+    - enter 进入
+    - entrance 入口
+    - entice 引诱
+    - engine **引擎，发动机；机车，火车头；工具，进入的
+  - ex 开口处
+    - exit 出口
+    - extend 伸长
+    - except 除。。。。之外（把...踢出去）
+    - expert 专家(某些方面突出的人)
+- A（增加）
+  - add
+  - and
+  - addition 加法
+  - addictive 量多会上瘾
+  - avocation 副业
+- D （向下）
+  - down 向下
+  - dark 太阳落山，黑暗降临
+  - die 死了以后埋地里
+  - dive 跳水，潜水
+- N （鼻子）
+  - 发现
+  - 否定
+  - 用力
+- H （高处）
+- L（线条）
+  - 光
+  - 轻
+  - 文学延伸
+- V（男性）
+  - 生命力
+  - 暴力
+  - 衍生
+    - vo 用力张嘴 -->喊叫
+    - vac  生命力没有  -> 消失，空的
+    - verse  生命螺旋式进化 ->转动
+- W（女性）
+  - wife = w life=陪伴一生的女性
+  - husband = hus band = 家庭的顶梁柱
+- F（飞）
+  - 运动，流程，流动，速度 --> 力量，说，流传
+  - fect 做，制作
+  - fer 带来，南来
+  - fore,fort   力量
+  - flu 流动
+  - fin  完成
+  - off 脱离
+- T （去，过程）
+  - ten  延伸
+    - extend
+    - intend
+    - extent 范围
+    - trend  潮流
+    - tent 帐篷
+    - contend  竞争
+    - pretend 假装
+    - attend 参加
+  - temp 太阳
+    - 崇拜
+      - tempt 诱惑
+      - tempation 崇拜
+      - cont 相反-->与崇拜相反  ---> contempt 鄙视
+    - 温度
+      - temperature 温度
+      - temper 脾气
+      - temperament 气质
+    - 时间
+      - temporary 临时的
+      - contemporary  同时时期的，当代的
+  - trans（转换）
+    - transplant  一直
+    - translate 翻译
+    - transport 运输
+    - transform 变形
+    - transact 交易
+  - tract (轨迹)
+    - contract  纸片轨迹相同 =合同
+    - distract 分开的轨迹=分神，打扰
+    - extract 向外的轨迹  = 提取
+    - abstract 扯远了= 抽象的
+    - trace 跟踪
+  - tri 三个
+  - trib 给予
+  - tain 拿
+    - obtain 取得
+    - attain 取得
+    - gain 取得
+    - contain 包含
+    - container 容器
+    - maintain 维持
+    - detain 扣留
+  - turb 搅动
+- S （扭曲，努力，增加）
+  - str 努力
+  - sect 切分
+  - sub 下面
+  - spect 看
+  - struct 结构
+- C (拥抱，覆盖，完成)
+  - com、con、co  一起，相对
+  - ceive ,cept 接受
+  - ces 连
+    - process 往前走==过程
+    - recession 往后走 ==经济萧条
+  - cap 抓
+  - cert 确定的
+- R（撕裂，破坏，出现）
+  - ra 根
+  - rect 直立
+  - race 分割
+    - racialism 种族主义
+  - rep，rept，rev  捕，夺
+  - rupt 破裂
+  - re 回来，再次
+- P（放置）
+  - pro 方向向前
+  - pre 时间提前
+  - pri 首要的
+  - pose 放置
+    - propose 求婚
+  - press 压
+  - pet 追求
+- M （双手，做）
+  - mov，mot 动
+- B（木板）
+  - bi 双
+  - br 撕裂
+- A
+  - ab 远离
+  - ad 靠近
+- J（扔，甩）
+  - ject 扔
+    - inject 向内扔=注射
+    - eject 向外扔=弹出
+    - rejiect 扔回来= 拒绝
+    - object 对着扔= 反对
+      - object 物体=与主观相对 ==  objective 客观的
+      - subjective 主观的
+    - abject 扔的很远的= 可怜
+    - ju 判断
+- I 
+  - inter 之间的
+  - intro 内部的
+- O
+  - ob，o 反对
+- X 十足路口不知哪儿走= 未知
+- G  张嘴的表情
