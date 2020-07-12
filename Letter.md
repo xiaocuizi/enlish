@@ -9,7 +9,7 @@
     - enter 进入
     - entrance 入口
     - entice 引诱
-    - engine **引擎，发动机；机车，火车头；工具，进入的
+    - engine  引擎，发动机；机车，火车头；工具，进入的，引擎（外部物质（燃油）进入的入口）
   - ex 开口处
     - exit 出口
     - extend 伸长
@@ -34,7 +34,8 @@
 - L（线条）
   - 光
   - 轻
-  - 文学延伸
+  - 文学延伸：lect leg log
+  - leg(选择)
 - V（男性）
   - 生命力
   - 暴力
@@ -48,15 +49,15 @@
 - F（飞）
   - 运动，流程，流动，速度 --> 力量，说，流传
   - fect 做，制作
-  - fer 带来，南来
+  - fer 带来，拿来
   - fore,fort   力量
   - flu 流动
   - fin  完成
   - off 脱离
 - T （去，过程）
   - ten  延伸
-    - extend
-    - intend
+    - extend 伸展、扩展
+    - intend 打算
     - extent 范围
     - trend  潮流
     - tent 帐篷
@@ -76,7 +77,7 @@
       - temporary 临时的
       - contemporary  同时时期的，当代的
   - trans（转换）
-    - transplant  一直
+    - transplant  移植
     - translate 翻译
     - transport 运输
     - transform 变形
@@ -107,7 +108,7 @@
 - C (拥抱，覆盖，完成)
   - com、con、co  一起，相对
   - ceive ,cept 接受
-  - ces 连
+  - ces 走
     - process 往前走==过程
     - recession 往后走 ==经济萧条
   - cap 抓
